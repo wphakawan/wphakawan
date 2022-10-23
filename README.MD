@@ -1,7 +1,8 @@
 echo "# wphakawan" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
+,,,,,
+git init.. 
+git add""README.md
+git commit ;-m "first commit"
+git branch -M main.,?
 git remote add origin git@github.com:wphakawan/wphakawan.git
-git push -u origin main
+git push -u,(origin main ..!
